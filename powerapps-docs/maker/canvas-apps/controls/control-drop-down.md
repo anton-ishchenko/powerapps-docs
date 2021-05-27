@@ -124,7 +124,7 @@ A **Drop down** control conserves screen real estate, especially when the list c
 
 1. Add a **Drop down** control, and then set its **[Items](properties-core.md)** property to this expression:
 
-    `["Seattle", "Tokyo", "London", "Johannesburg", "Rio de Janeiro"]`
+    `["Seattle"; "Tokyo"; "London"; "Johannesburg"; "Rio de Janeiro"]`
 
     Don't know how to [add, name, and configure a control](../add-configure-controls.md)?
 
